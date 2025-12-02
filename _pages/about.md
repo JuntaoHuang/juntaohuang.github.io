@@ -33,17 +33,26 @@ I am an Assistant Professor at [Department of Mathematical Sciences](https://www
 I received my Ph.D. in Applied Math in 2018 and dual Bachelor's degrees in Mathematics and Engineering Mechanics in 2013, all from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 Before joining UD, I was a visiting assistant professor at [Michigan State University](https://msu.edu/) from 2018 to 2022, followed by a faculty position at [Texas Tech University](https://www.ttu.edu/) from 2022 to 2025. 
 
+---
+
 ##### **Research Interests**
 
 Applied and Computational Math, numerical analysis and scientific computing
 - Mechanics of polymer networks
-- Moment closure for kinetic equations
 - Machine learning for multiscale modeling
 - Sparse grid methods for high-dimensional PDEs
 - High-order numerical methods for hyperbolic equations
 - Lattice Boltzmann methods for fluid simulations
 
-For more details, please visit my Research Page or [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl). I am always happy to connect. Feel free to reach out if you would like to discuss research or potential collaborations.
+For more details, please visit my [Research Page](https://juntaohuang.github.io/research/) or [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl).
+
+I am always happy to connect. Feel free to reach out if you would like to discuss research or potential collaborations.
+
+---
+
+<body>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=tLgRFX3G0XweBwIYiDVhoDuDwuk_V_8QX8l9HGTOszk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<body>
 
 <!-- For more details, please visit my Research Page or [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl). I am always happy to connect. Feel free to reach out if you would like to discuss research or potential collaborations.
 
