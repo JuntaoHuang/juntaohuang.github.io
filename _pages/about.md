@@ -37,7 +37,7 @@ Before joining UD, I was a visiting assistant professor at [Michigan State Unive
 
 ##### **Research Interests**
 
-Applied and Computational Math, numerical analysis and scientific computing
+Numerical analysis, scientific computing, machine learning, and mathematical modeling:
 - Mechanics of polymer networks
 - Machine learning for multiscale modeling
 - Sparse grid methods for high-dimensional PDEs

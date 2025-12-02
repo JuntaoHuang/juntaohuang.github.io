@@ -15,14 +15,14 @@ nav_order: 3
 </style>
 
 
-#### **Current Courses**
+##### **Current Courses**
 
 - **Fall 2025**: MATH 349, Elementary Linear Algebra
 - **Fall 2025**: MATH 637, Mathematical Techniques in Data Science
 
 ---
 
-#### **Past Courses**
+##### **Past Courses**
 
 **Texas Tech University**
 

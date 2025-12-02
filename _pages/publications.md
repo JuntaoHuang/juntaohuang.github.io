@@ -16,7 +16,7 @@ nav_order: 2
 </style>
 
 
-#### **Submitted Preprints**
+##### **Submitted Preprints**
 
 * J. Huang, J. Liu, and S. Lin. [Topological Mechanics of Entangled Networks](https://arxiv.org/abs/2509.17813), ***arXiv:2509.17813***, 2025.
 
@@ -24,7 +24,7 @@ nav_order: 2
 
 ---
 
-#### **Publications** 
+##### **Publications** 
 
 Most up-to-date information can be found at [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl).
 
