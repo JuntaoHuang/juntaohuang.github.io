@@ -17,8 +17,8 @@ nav_order: 3
 
 ##### **Current Courses**
 
-- **Fall 2025**: MATH 349, Elementary Linear Algebra
-- **Fall 2025**: MATH 637, Mathematical Techniques in Data Science
+- **F2025**: MATH 349, Elementary Linear Algebra
+- **F2025**: MATH 637, Mathematical Techniques in Data Science
 
 ---
 
@@ -26,17 +26,17 @@ nav_order: 3
 
 **Texas Tech University**
 
-- **Fall 2024**: MATH 2450, Calculus III with Applications
-- **Fall 2023**: MATH 5346, Introduction to Data Science and Machine Learning
-- **Fall 2023**: MATH 2450, Calculus III with Applications
-- **Spring 2023**: MATH 4000, Undergraduate Research
-- **Fall 2022**: MATH 3351, Higher Mathematics for Engineers and Scientists II
-- **Fall 2022**: MATH 4354, Differential Equation II
+- **F2024**: MATH 2450, Calculus III with Applications
+- **F2023**: MATH 5346, Introduction to Data Science and Machine Learning
+- **F2023**: MATH 2450, Calculus III with Applications
+- **S2023**: MATH 4000, Undergraduate Research
+- **F2022**: MATH 3351, Higher Mathematics for Engineers and Scientists II
+- **F2022**: MATH 4354, Differential Equation II
 
 
 **Michigan State University**
 
-- **Spring 2021**: MTH 124, Survey of Calculus I (online)
-- **Spring 2020**: MTH 124, Survey of Calculus I (2 sections)
-- **Fall 2019**: MTH 124, Survey of Calculus I
-- **Spring 2019**: MTH 124, Survey of Calculus I (3 sections)
+- **S2021**: MTH 124, Survey of Calculus I (online)
+- **S2020**: MTH 124, Survey of Calculus I (2 sections)
+- **F2019**: MTH 124, Survey of Calculus I
+- **S2019**: MTH 124, Survey of Calculus I (3 sections)
