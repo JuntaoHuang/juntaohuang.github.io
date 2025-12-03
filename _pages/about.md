@@ -45,7 +45,7 @@ Numerical analysis, scientific computing, machine learning, and mathematical mod
 - Lattice Boltzmann methods for fluid simulations
 
 For more details, please visit my [Research Page](https://juntaohuang.github.io/research/) or [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl).
-Feel free to reach out if you would like to discuss research or potential collaborations.
+Feel free to reach out if you would like to discuss research, or potential collaborations, or seeking undergraduate/graduate opportunities in applied and computational math.
 
 ---
 
