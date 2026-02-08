@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor at [Department of Mathematical Sciences](https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/) at [University of Delaware](https://www.udel.edu/). 
+I am an Assistant Professor at [Department of Mathematical Sciences](https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/) and an affiliated faculty member in [Data Science Institute](https://dsi.udel.edu/) at [University of Delaware](https://www.udel.edu/).
 
 I received my Ph.D. in Applied Math in 2018 and dual Bachelor's degrees in Mathematics and Engineering Mechanics in 2013, all from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 Before joining UD, I was a visiting assistant professor at [Michigan State University](https://msu.edu/) from 2018 to 2022, followed by a faculty position at [Texas Tech University](https://www.ttu.edu/) from 2022 to 2025. 
@@ -37,15 +37,21 @@ Before joining UD, I was a visiting assistant professor at [Michigan State Unive
 
 ##### **Research Interests**
 
-Numerical analysis, scientific computing, machine learning, and mathematical modeling:
-- Modeling of architected materials
+Scientific computing, numerical analysis, multiscale modeling, and data science:
 - Machine learning for multiscale modeling
+- Network modeling for polymers and architected materials
 - Sparse grid methods for high-dimensional PDEs
-- High-order numerical methods for hyperbolic equations
+- High-order numerical schemes for hyperbolic equations
 - Lattice Boltzmann methods for fluid simulations
 
 For more details, please visit my [Research Page](https://juntaohuang.github.io/research/) or [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl).
 Feel free to reach out if you would like to discuss research, or potential collaborations, or seeking undergraduate/graduate opportunities in applied and computational math.
+
+---
+
+##### **Contact Information**
+
+Email: huangjt@udel.edu
 
 ---
 

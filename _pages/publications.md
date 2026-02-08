@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /publication/
+title: Publications
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 
