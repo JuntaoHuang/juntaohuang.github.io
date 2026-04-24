@@ -18,6 +18,8 @@ nav_order: 3
 
 ##### **Submitted Preprints**
 
+* J. Huang. [Machine learning moment closure models for the radiative transfer equation IV: enforcing symmetrizable hyperbolicity in two dimensions](https://arxiv.org/abs/2604.20143), ***arXiv:2604.20143***, 2026.
+
 * J. Huang, J. Liu, and S. Lin. [Topological Mechanics of Entangled Networks](https://arxiv.org/abs/2509.17813), ***arXiv:2509.17813***, 2025.
 
 * S. Zhou, J. Huang, and A. J. Christlieb. [Moment-enhanced shallow water equations for non-slip boundary conditions](https://arxiv.org/abs/2506.14785), ***arXiv:2506.14785***, 2025.
