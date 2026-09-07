@@ -18,6 +18,8 @@ nav_order: 3
 
 ##### **Submitted Preprints**
 
+* J. Liu, S. Lin, and J. Huang. [A discrete crack-tip theory for nonlinear lattice networks](https://arxiv.org/abs/2609.04568), ***arXiv:2609.04568***, 2026.
+
 * J. Huang. [Machine learning moment closure models for the radiative transfer equation IV: enforcing symmetrizable hyperbolicity in two dimensions](https://arxiv.org/abs/2604.20143), ***arXiv:2604.20143***, 2026.
 
 * J. Huang, J. Liu, and S. Lin. [Topological Mechanics of Entangled Networks](https://arxiv.org/abs/2509.17813), ***arXiv:2509.17813***, 2025.
