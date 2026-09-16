@@ -18,6 +18,8 @@ nav_order: 3
 
 ##### **Submitted Preprints**
 
+* J. Huang. [The sharp CFL condition of the piecewise constant sparse grid discontinuous Galerkin method for high-dimensional transport equations](https://arxiv.org/abs/2609.17312), ***arXiv:2609.17312***, 2026.
+
 * J. Liu, S. Lin, and J. Huang. [A discrete crack-tip theory for nonlinear lattice networks](https://arxiv.org/abs/2609.04568), ***arXiv:2609.04568***, 2026.
 
 * J. Huang. [Machine learning moment closure models for the radiative transfer equation IV: enforcing symmetrizable hyperbolicity in two dimensions](https://arxiv.org/abs/2604.20143), ***arXiv:2604.20143***, 2026.
